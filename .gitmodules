@@ -1,0 +1,6 @@
+[submodule "ChamferDistancePytorch"]
+	path = ChamferDistancePytorch
+	url = https://github.com/ThibaultGROUEIX/ChamferDistancePytorch
+[submodule "SoftRas"]
+	path = SoftRas
+	url = https://github.com/ttaa9/SoftRas
