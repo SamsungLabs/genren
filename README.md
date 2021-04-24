@@ -19,7 +19,7 @@ This work was done at the Samsung AI Centre Toronto, and is licensed under [CC-B
 
 Clone with submodules
    
-    git clone https://github.com/ttaa9/genren.git --recursive
+    git clone https://github.com/SamsungLabs/genren.git --recursive
 
 If you forget to clone with `--recursive`, use
 
