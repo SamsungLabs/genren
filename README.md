@@ -7,7 +7,6 @@ Tristan Aumentado-Armstrong, Alex Levinshtein, Stavros Tsogkas, Konstantinos Der
 International Conference on 3D Vision (3DV 2020)
 
 [website](https://ttaa9.github.io/genren/) |
-[models](https://ln.sync.com/dl/13b71fa40/4eyzp337-ixvghei7-t94i5edm-ndx4p2ww) |
 [paper](https://ieeexplore.ieee.org/document/9320324) |
 [arxiv](https://arxiv.org/abs/2011.08026)
 
